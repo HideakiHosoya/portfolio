@@ -41,9 +41,6 @@ $qf-red-hover : #f68d91;
 	@include radius-3;
 	background-color:$color;
 }
-@mixin radius-color($color){
-	background-color:$color;
-}
 @mixin circle{
   @include border-radius(50%);
 	@include pie;

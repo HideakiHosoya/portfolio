@@ -75,30 +75,13 @@ a:hover{
 		border-bottom: dotted 1px #C7C5C2;
 	}
 	.content_box{
-		font-size: 90%;
-		padding-bottom: 30px;
-		h3{
-			font-size: 110%;
-		}
-		p{
-			padding-left: 5px;
-			margin-left: 25px;
-			border-left: solid 1px #ccc;
-			margin-bottom: 15px;
-		}
+		float: left;
+		margin-right: 40px;
 		ul{
 			margin-bottom: 30px;
 		}
 		li{
 			margin-bottom: 2px;
-			&.hobby{
-				text-indent: -3.5em;
-				padding-left: 3.5em;
-			}
-			&.food{
-				text-indent: -8em;
-				padding-left: 8em;
-			}
 		}
 	}
 }
@@ -164,17 +147,9 @@ ul.charge {
     background-color: #aaa;
   }
 }
-.main_visual{
-	margin-bottom: 10px;
-}
-.thanks{
-	@include pie;
-	@include radius-20;
-	@include radius-color(#f3f3f3);
-	padding-bottom: 5px;
-	padding-top: 5px;
-	color: #0c83a2;
-}
+	.main_visual{
+		margin-bottom: 10px;
+	}
 /*769px以上に適用*/
 @media only screen and (min-width: 769px){
 
@@ -223,7 +198,8 @@ ul.charge {
 	  }
 	}
 	#about .content_box {
-		margin-right: 0;
+	float: left;
+	margin-right: 0;
 	}
 }
 
