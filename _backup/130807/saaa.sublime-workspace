@@ -1,0 +1,619 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"right"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"i",
+				"interval"
+			],
+			[
+				"time",
+				"timer"
+			],
+			[
+				"s",
+				"swithImg"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"next_posts",
+				"next_posts_link"
+			],
+			[
+				"next",
+				"next_post_link"
+			],
+			[
+				"ra",
+				"raquo"
+			],
+			[
+				"post",
+				"post_class"
+			],
+			[
+				"the_t",
+				"the_title"
+			],
+			[
+				"the_",
+				"the_category"
+			],
+			[
+				"com",
+				"comment	Comment Form Template"
+			],
+			[
+				"is_si",
+				"is_singular"
+			],
+			[
+				"get_s",
+				"get_search_form"
+			],
+			[
+				"home",
+				"home_url"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"ec",
+				"echo	echo \"…\""
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"get_heade",
+				"get_header"
+			],
+			[
+				"get_template_dire",
+				"get_template_directory_uri"
+			],
+			[
+				"get_template_",
+				"get_template_directory"
+			],
+			[
+				"get_te",
+				"get_template"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 6845,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 15804,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_content.scss",
+			"settings":
+			{
+				"buffer_size": 2599,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Compass/Compass.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hosoyahideaki/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/sass/style.scss",
+		"/Users/hosoyahideaki/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/sass/_mixin.scss",
+		"/Users/hosoyahideaki/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/sass/_common.scss",
+		"/Users/hosoyahideaki/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/sass/_grid.scss",
+		"/Users/hosoyahideaki/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/sass/_module.scss",
+		"/Users/hosoyahideaki/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/sass/_content.scss",
+		"/Users/hosoyahideaki/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/single.php",
+		"/Users/hosoyahideaki/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/page.php",
+		"/Users/hosoyahideaki/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/functions.php",
+		"/Users/hosoyahideaki/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/index.php",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/simplesimple/header.php",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/archive_all.php",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/category.php",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/twentythirteen/single.php",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/simplesimple/single.php",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/functions.php",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/simplesimple/index.php",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/simplesimple/page.php",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/mass/lib/inc/header.php",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/include/head.php",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/include/footer_js.php",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/html-templete/config.rb",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/html-templete/sass/style.scss",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/style.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/html-templete/sass/_mixin.scss",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/html-templete/css/style.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/sass/_mixin.scss",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/html-templete/sass/_common.scss",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/sass/_common.scss",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/html-templete/sass/_module.scss",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/sass/_grid.scss",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/sass/_module.scss",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/sass/style.scss",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/act_one/index.php",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/portfolio/css/ivory.css",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/act_two/css/reset.css",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/act_two/ivory.html",
+		"/Volumes/public/MV2011/www/jec-jp.org/index_test.php",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/act_two/IVORY-master/css/ivory.css",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/act_two/IVORY-master/index.html",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/act_two/js/respond.src.js",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/act_two/sidebar.php",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/act_two/style.css",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/act_two/css/responsive-gs-12col.css",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/act_two/css/ie.css",
+		"/Users/hosoya/Desktop/responsive.gs.12col/ie.css",
+		"/Users/hosoya/Desktop/IVORY-master/css/ivory.css",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/act_two/css/bootstrap.css",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/act_two/sass/setting.scss",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/act_two/sass/nav.scss",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/act_two/nav.css",
+		"/Users/hosoya/Desktop/icomoon95277/index.html",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/css/bootstrap.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/css/font.css",
+		"/Users/hosoya/Desktop/B1級認定者201202.txt",
+		"/Users/hosoya/Desktop/icomoon95277/style.css",
+		"/Users/hosoya/Desktop/icomoon83947/index.html",
+		"/Users/hosoya/Desktop/icomoon70630/index.html",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/css/style.css",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/css/font.css",
+		"/Users/hosoya/Desktop/icomoon6251/index.html",
+		"/Users/hosoya/Desktop/icomoon6251/style.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/sass-twitter-bootstrap/docs/index.html",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/test.html",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/backup/130320/index.php",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/css/bootstrap-responsive.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/sass-twitter-bootstrap/docs/assets/css/bootstrap-responsive.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/sass-twitter-bootstrap/docs/assets/css/bootstrap.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/css/responsive-gs-12col.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/js/yuga.js",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/sass-twitter-bootstrap/docs/index.html",
+		"/Users/hosoya/Desktop/docs/index.html",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/sass-twitter-bootstrap/docs/assets/css/bootstrap.css",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/sass-twitter-bootstrap/docs/assets/css/bootstrap-responsive.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/sass-twitter-bootstrap/bootstrap-2.3.1.css",
+		"/Users/HideakiHosoya/Desktop/onepcssgrid/onepcssgrid.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/css/reset.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/sass/setting.scss",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/sass/style.scss",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/sass/style2.scss",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/index.php",
+		"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/simplesimple/index.php",
+		"/Users/hosoya/Desktop/CatIndexKiller.pl",
+		"/Users/hosoya/Desktop/名称未設定フォルダ/CatIndexKiller.pl",
+		"/Volumes/public/MV2011/www/bblconsulting.jp/cgi-bin/mt/backup/mt-config.cgi",
+		"/Users/hosoya/Dropbox/BBL/OD・TMガイド/web/public_html/cgi-bin/mt/mt-config.cgi",
+		"/Users/hosoya/Desktop/mt-config.cgi",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/style2.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/style.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/setting.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/ui.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/sass/ui.scss",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/sass/_setting.scss",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/config.rb",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/_setting.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/Centurion-master/css/centurion.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/Centurion-master/index.html",
+		"/Users/HideakiHosoya/Desktop/style.css",
+		"/Users/HideakiHosoya/Desktop/Centurion-master/index.html",
+		"/Users/HideakiHosoya/Desktop/Centurion-master/css/style.css",
+		"/Users/HideakiHosoya/Desktop/Centurion-master/css/centurion.css",
+		"/Users/HideakiHosoya/Desktop/responsive.gs.12col/responsive-gs-12col.css",
+		"/Users/HideakiHosoya/Desktop/responsive.gs.12col/reset.css",
+		"/Users/HideakiHosoya/Desktop/Golden-Grid-System-master/GGS.scss",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/css/sp.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/twitter-bootstrap/docs/examples/fluid.html",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/twitter-bootstrap/less/grid.less",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/sass-twitter-bootstrap/docs/examples/hero.html",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/sass-twitter-bootstrap/composer.json",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/sass-twitter-bootstrap/component.json",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/sass-twitter-bootstrap/CONTRIBUTING.md",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/sass-twitter-bootstrap/Gemfile",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/sass-twitter-bootstrap/Gemfile.lock",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/sass-twitter-bootstrap/Makefile",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/sass-twitter-bootstrap/package.json",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/sass-twitter-bootstrap/Rakefile",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/twitter-bootstrap/docs/assets/css/bootstrap.css",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/twitter-bootstrap/docs/examples/starter-template.html",
+		"/Users/HideakiHosoya/Desktop/responsive-master/sass/style.scss",
+		"/Users/HideakiHosoya/Desktop/responsive-master/style.css",
+		"/Users/HideakiHosoya/Desktop/responsive-master/index.php",
+		"/Users/HideakiHosoya/Desktop/sass-twitter-bootstrap-master/lib/type.sass",
+		"/Users/HideakiHosoya/Desktop/sass-twitter-bootstrap-master/lib/reset.sass",
+		"/Users/HideakiHosoya/Desktop/sass-twitter-bootstrap-master/lib/patterns.sass",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/twitter-bootstrap/docs/examples/carousel.html",
+		"/Users/HideakiHosoya/Desktop/onepcssgrid/grid-page-1200.html",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/ari/index.php",
+		"/Users/HideakiHosoya/Dropbox/mamp/htdocs/wordpress/wp-content/themes/ari/header.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"btn_magenta",
+			"brand",
+			"*",
+			"\"",
+			"span",
+			"glyph",
+			"<?php echo get_template_directory_uri(); ?>/",
+			"assets/",
+			"content_wrap",
+			"page_wrap",
+			"images",
+			"nav",
+			"button",
+			"media",
+			"\n",
+			"push",
+			"less",
+			"json",
+			" class=\"alt\"",
+			"jpg",
+			"uev.jpg",
+			"good_guy__bad_guy.html",
+			"links",
+			"A list",
+			"A list with images and links",
+			"\n",
+			"demo3",
+			"imgs",
+			"img",
+			"png",
+			"i",
+			"jpg",
+			">",
+			"jpg",
+			">",
+			"jpg",
+			"while (have_posts()) : the_post();",
+			"<?php if (have_posts()) :",
+			"\n",
+			"footer",
+			"#",
+			"}",
+			"false",
+			"5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"jpg"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 6845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 15804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "sass/_content.scss",
+					"settings":
+					{
+						"buffer_size": 2599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.408953925064,
+			0.72099325869,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/hosoya/.dropbox-two/Dropbox/mamp/htdocs/wordpress/wp-content/themes/responsive/sass/style.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

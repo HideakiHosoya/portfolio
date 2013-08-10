@@ -1,0 +1,135 @@
+/*paddingとborderを幅と高さに含める*/
+*{
+	box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+}
+body {
+  margin: 0;
+  padding:0;
+  -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+  -webkit-text-size-adjust: none;
+  font-family: "ヒラギノ明朝 Pro W6", "Hiragino Mincho Pro", "HGS明朝E", "ＭＳ Ｐ明朝", serif;
+  line-height: 150%;
+  font-size: 14px;
+  letter-spacing: 1pt;
+}
+/* ---- Clearfixes ---- */
+.row:before,.row:after,.cf:before,.cf:after{
+	content:'';
+	display:table;
+}
+.row:after,.cf:after{
+	clear:both;
+}
+.row,.cf{
+	zoom:1
+}
+img{
+	max-width: 100%;
+	height: auto;
+	width /***/:auto;
+}
+/* ---- header---- */
+header{
+	margin-top: 50px;
+	h1{
+		float: left;
+		font-size: 70px;
+		font-weight: normal;
+		margin: 0;
+		line-height: 100%;
+    font-family: "Baskerville","Times New Roman","Times",serif;
+    a {
+      color: #000;
+      &:hover{
+        text-decoration: none;
+        color: #555;
+      }
+    }
+	}
+}
+/* ---- nav ---- */
+nav{
+	float: right;
+}
+
+#pageslide {
+  /* These styles MUST be included. Do not change. */
+  display: none;
+  position: absolute;
+  position: fixed;
+  top: 0;
+  height: 100%;
+  z-index: 999999;
+  /* Specify the width of your pageslide here */
+  width: 260px;
+  padding: 20px;
+  /* These styles are optional, and describe how the pageslide will look */
+  background-color: #333;
+  color: #FFF;
+  -webkit-box-shadow: inset 0 0 5px 5px #222;
+  -moz-shadow: inset 0 0 5px 5px #222;
+  box-shadow: inset 0 0 5px 5px #222;
+}
+div#nav {
+  padding-left: 0;
+  list-style: none;
+  width: 100%;
+}
+.open {
+  display: none;
+}
+#nav li{
+	float: left;
+	margin-left: 20px;
+}
+/* ---- footer ---- */
+footer{
+  border-top: solid 1px #eee;
+}
+
+
+/* Mobile Landscape and Portrait */
+@media only screen and (max-width: 767px) {
+  header div#nav {
+      display: none;
+  }
+  .open {
+    background-color: #333333;
+    color: #FFFFFF;
+    display: block;
+    float: right;
+    font-size: 17px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    width: 35px;
+    margin-top: 10px;
+    margin-top: -35px;
+  }
+  .open:hover {
+    color: #fff;
+  }
+  .open:visited {
+    color: #fff;
+  }
+  #pageslide {
+      width: 200px;
+  }
+  #pageslide #nav li {
+      padding: 10px 0;
+      border-bottom: 1px solid #666;
+      float: none;
+      font-size: 15px;
+  }
+  #pageslide #nav li a {
+      color: #FFF;
+      border: none;
+  }
+  #pageslide #nav li a:hover {
+      text-decoration: underline;
+      color: #555;
+  }
+}

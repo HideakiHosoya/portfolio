@@ -1,0 +1,205 @@
+h2{
+	font-size: 200%;
+	font-weight: normal;
+	letter-spacing: 0.05em;
+	line-height: 130%;
+}
+#portfolio h2{
+/*	border-bottom: dotted 1px #C7C5C2;*/
+	margin-bottom: 15px;
+}
+#portfolio h3{
+	margin-bottom: 10px;
+	text-indent: -7.5em;
+	padding-left: 7.5em;
+}
+.intro{
+	border-bottom: solid 1px #eee;
+	border-top: solid 1px #eee;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	line-height: 150%;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.click_img {
+		padding-top: 20px;
+		li{
+			float: left;
+			margin-right: 15px;
+		img{
+			width: 60px;
+			height: 60px;
+			cursor:pointer;
+			-webkit-box-shadow: #666 0px 0px 3px;
+			-moz-box-shadow: #666 0px 0px 3px;
+			box-shadow: #666 0px 0px 3px;
+			@include pie;
+			&:hover{
+				-webkit-box-shadow: #444 0px 0px 7px;
+				-moz-box-shadow: #444 0px 0px 7px;
+				box-shadow: #444 0px 0px 7px;
+				@include pie;
+			}
+		}
+	}
+}
+
+.pf_box{
+	padding-bottom: 50px
+}
+.url{
+	font-size: 85%;
+}
+.gallery_big{
+	height:350px;
+	-webkit-box-shadow: #666 0px 0px 7px;
+	-moz-box-shadow: #666 0px 0px 7px;
+	box-shadow: #666 0px 0px 7px;
+	@include pie;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+
+.gallery_thumb li a{
+	display:block;
+}
+
+#about{
+	h2{
+		margin-bottom: 3px;
+		border-bottom: dotted 1px #C7C5C2;
+	}
+	.content_box{
+		float: left;
+		margin-right: 40px;
+		ul{
+			margin-bottom: 30px;
+		}
+		li{
+			margin-bottom: 2px;
+		}
+	}
+}
+
+.greeting p{
+	line-height: 165%;
+}
+.client_data li{
+	float: left;
+	margin-bottom: 3px;
+}
+ul.charge {
+	padding-bottom: 10px;
+	li{
+		margin-right: 10px;
+	}
+}
+.gray_radius{
+	padding: 4px;
+	font-weight: bold;
+	font-size: 85%;
+	line-height: 100%;
+	margin-right: 10px;
+	color: #fff;
+  @include radius-3-color(#bababa);
+  font-family: "メイリオ", "ＭＳ Ｐゴシック", sans-serif;
+}
+.number {
+	color: #C7C5C2;
+	font-size: 46px;
+	font-family: "Times New Roman", "Times", serif;
+	text-align: right;
+}
+
+.grd_border{
+	height:1px;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.100, #f9f9f9), color-stop(0.50, #9a9a9a), color-stop(0.00, #f9f9f9));
+	background: -webkit-linear-gradient(left, #f9f9f9 0%, #9a9a9a 10%, #f9f9f9 100%);
+	background: -moz-linear-gradient(left, #f9f9f9 0%, #9a9a9a 10%, #f9f9f9 100%);
+	background: -o-linear-gradient(left, #f9f9f9 0%, #9a9a9a 10%, #f9f9f9 100%);
+	background: -ms-linear-gradient(left, #f9f9f9 0%, #9a9a9a 10%, #f9f9f9 100%);
+	background: linear-gradient(left, #f9f9f9 0%, #9a9a9a 10%, #f9f9f9 100%);
+	-pie-background: linear-gradient(left, #f9f9f9 0%, #9a9a9a 10%, #f9f9f9 100%);
+	@include pie;
+}
+#menu-global_nav a{
+  text-decoration: none;
+  color: #666;
+  display: block;
+  background-color: #e8e8e8;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 7px;
+  padding-left: 7px;
+  font-size: 14px;
+  font-weight: bold;
+ &:hover {
+    border-bottom-style: solid;
+    background-color: #aaa;
+    text-decoration: none;
+  }
+  &.current{
+    background-color: #aaa;
+  }
+}
+	.main_visual{
+		margin-bottom: 10px;
+	}
+/*769px以上に適用*/
+@media only screen and (min-width: 769px){
+
+}
+/*768px以下に適用*/
+@media only screen and (max-width: 768px){
+	header h1 {
+		font-size: 55px;
+	}
+	#portfolio h2{
+	margin-bottom: 15px;
+	}
+	.inner_col .c4{
+		@include c4;
+	}
+	.inner_col .c8{
+		@include c8;
+	}
+	.gallery_big{
+		height:450px;
+		overflow: hidden;
+	}
+}
+/*320px以下に適用*/
+@media only screen and (max-width: 320px){
+	body{
+		font-size: 13px;
+	}
+	h2{
+	  font-size: 135%;
+	}
+	.pf_box{
+		padding-bottom: 20px
+	}
+	.gallery_big{
+		height:175px;
+		overflow: hidden;
+	}
+  .c5.big_img{
+		margin-bottom:10px;
+	}
+	#menu-global_nav a{
+	  background-color: transparent;
+	  &:hover{
+	  	background-color: transparent;
+	  }
+	}
+	#about .content_box {
+	float: left;
+	margin-right: 0;
+	}
+}
+

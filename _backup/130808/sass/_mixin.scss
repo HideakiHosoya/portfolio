@@ -1,0 +1,56 @@
+@import "compass";
+$qf-red : #ed1c24;
+$qf-red-hover : #f68d91;
+@mixin hover_color {
+	background-color: #6699cc;
+	color: #fff;
+}
+@mixin pie {
+	behavior: url("/PIE.htc");
+	position: relative;
+}
+@mixin btn_hover{
+	background-color: #6699cc;
+	color: #fff;
+}
+@mixin radius-10{
+  @include border-radius(10px);
+	@include pie;
+}
+@mixin radius-20{
+  @include border-radius(20px);
+	@include pie;
+}
+@mixin radius-10-red($color){
+	@include radius-10;
+	background-color:$color;
+}
+@mixin radius-20-gray($color){
+	@include radius-20;
+	background-color:$color;
+}
+@mixin circle{
+  @include border-radius(50%);
+	@include pie;
+}
+@mixin circle-100($width,$height){
+  @include border-radius(50%);
+	@include pie;
+	width: $width;
+	height: $height;
+}
+
+@mixin c1{width:8.33%;}
+@mixin c2{width:16.66%;}
+@mixin c3{width:25%;}
+@mixin c4{width:33.33% !important;}
+@mixin c5{width:41.66%;}
+@mixin c6{width:50%;}
+@mixin c7{width:58.33%;}
+@mixin c8{width:66.66% !important;}
+@mixin c9{width:75%;}
+@mixin c10{width:83.33%;}
+@mixin c11{width:91.66%;}
+@mixin c12{width:100%; min-height:1px; float:left; position:relative;}
+@mixin c1-5{width:20%;}
+@mixin c1-8{width:12.5%;}
